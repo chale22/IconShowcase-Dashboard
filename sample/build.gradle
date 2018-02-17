@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "jahirfiquitiva.apps.iconshowcase.demo"
+        applicationId "com.c_hale22.darkstrokes_icons"
         minSdkVersion 16
         targetSdkVersion TARGET_SDK
         versionCode 1980

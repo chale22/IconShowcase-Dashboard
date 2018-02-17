@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Theme version="1">
+
+	<Label value="Your Icon Pack Name"/>
+	<Wallpaper image="lg_homescreen_wallpaper"/>
+	<LockScreenWallpaper image="lockscreen_wallpaper"/>
+	<ThemePreview image="lg_homescreen_preview"/>
+	<ThemePreviewWork image="lg_homescreen_preview_work"/>
+	<ThemePreviewMenu image="lg_homescreen_preview_menu"/>
+	<DockMenuAppIcon selector="lg_dockmenu_all_apps_button_icon"/>
+
+	<!-- ACALENDAR -->
+	<AppIcon name="" image="acalendar"/>
+	<!-- ACCUWEATHER -->
+	<AppIcon name="" image="accuweather"/>
+	<!-- ACDISPLAY -->
+	<AppIcon name="" image="acdisplay"/>
+	<!-- ACTIONLAUNCHER -->
+	<AppIcon name="" image="actionlauncher"/>
+	<!-- ACTIONLAUNCHER3 -->
+	<AppIcon name="" image="actionlauncher3"/>
+	<!-- ACTION LAUNCHER -->
+	<AppIcon name="" image="action_launcher"/>
+	<!-- ADBLOCK -->
+	<AppIcon name="" image="adblock"/>
+	<!-- ADBLOCK01 -->
+	<AppIcon name="" image="adblock01"/>
+	<!-- ADOBEFLASH -->
+	<AppIcon name="" image="adobeflash"/>
+	<!-- ADOBEFLASH01 -->
+	<AppIcon name="" image="adobeflash01"/>
+	<!-- ADOBEFLASH02 -->
+	<AppIcon name="" image="adobeflash02"/>
+	<!-- ADW -->
+	<AppIcon name="" image="adw"/>
+	<!-- ADW01 -->
+	<AppIcon name="" image="adw01"/>
+	<!-- ADWEX -->
+	<AppIcon name="" image="adwex"/>
+	<!-- ADWNOTIFIER -->
+	<AppIcon name="" image="adwnotifier"/>
+	<!-- AGARIO -->
+	<AppIcon name="" image="agario"/>
+	<!-- AIRBRUSH -->
+	<AppIcon name="" image="airbrush"/>
+	<!-- AIRDROID -->
+	<AppIcon name="" image="airdroid"/>
+	<!-- AITYPE EMOJI PLUGIN -->
+	<AppIcon name="" image="aitype_emoji_plugin"/>
+	<!-- AITYPE KEYBOARD FREE -->
+	<AppIcon name="" image="aitype_keyboard_free"/>
+	<!-- ALARMMON -->
+	<AppIcon name="" image="alarmmon"/>
+	<!-- ALARMMON1 -->
+	<AppIcon name="" image="alarmmon1"/>
+	<!-- ALARMPLUS -->
+	<AppIcon name="" image="alarmplus"/>
+	<!-- ALARMXTREME -->
+	<AppIcon name="" image="alarmxtreme"/>
+	<!-- ALARM CLOCK XTREME FREE -->
+	<AppIcon name="" image="alarm_clock_xtreme_free"/>
+	<!-- ALARM DEHOX -->
+	<AppIcon name="" image="alarm_dehox"/>
+	<!-- ALLAPPS01 -->
+	<AppIcon name="" image="allapps01"/>
+	<!-- ALLAPPS02 -->
+	<AppIcon name="" image="allapps02"/>
+	<!-- ALLAPPS03 -->
+	<AppIcon name="" image="allapps03"/>
+	<!-- ALLAPPS04 -->
+	<AppIcon name="" image="allapps04"/>
+	<!-- ALLAPPS05 -->
+	<AppIcon name="" image="allapps05"/>
+	<!-- ALLAPPS06 -->
+	<AppIcon name="" image="allapps06"/>
+	<!-- ALLAPPS07 -->
+	<AppIcon name="" image="allapps07"/>
+	<!-- ALLAPPS08 -->
+	<AppIcon name="" image="allapps08"/>
+	<!-- ALLAPPS09 -->
+	<AppIcon name="" image="allapps09"/>
+	<!-- ALLAPPS10 -->
+	<AppIcon name="" image="allapps10"/>
+	<!-- ALLAPPS11 -->
+	<AppIcon name="" image="allapps11"/>
+	<!-- ALLAPPS12 -->
+	<AppIcon name="" image="allapps12"/>
+	<!-- ALLAPPS13 -->
+	<AppIcon name="" image="allapps13"/>
+	<!-- ALLAPPS14 -->
+	<AppIcon name="" image="allapps14"/>
+	<!-- ALLAPPS15 -->
+	<AppIcon name="" image="allapps15"/>
+	<!-- ALLAPPS16 -->
+	<AppIcon name="" image="allapps16"/>
+	<!-- ALLAPPS17 -->
+	<AppIcon name="" image="allapps17"/>
+	<!-- ALLAPPS18 -->
+	<AppIcon name="" image="allapps18"/>
+	<!-- ALLAPPS19 -->
+	<AppIcon name="" image="allapps19"/>
+	<!-- AMAZON APP STORE -->
+	<AppIcon name="" image="amazon_app_store"/>
+	<!-- AMAZON SHOPPING -->
+	<AppIcon name="" image="amazon_shopping"/>
+	<!-- AMBER WEATHER -->
+	<AppIcon name="" image="amber_weather"/>
+	<!-- AMEX -->
+	<AppIcon name="" image="amex"/>
+	<!-- ANDLYTICS -->
+	<AppIcon name="" image="andlytics"/>
+	<!-- ANDLYTICS01 -->
+	<AppIcon name="" image="andlytics01"/>
+	<!-- ANDROID CENTRAL -->
+	<AppIcon name="" image="android_central"/>
+	<!-- ANDROID WEAR -->
+	<AppIcon name="" image="android_wear"/>
+	<!-- ANDROID WEAR01 -->
+	<AppIcon name="" image="android_wear01"/>
+	<!-- AOKP BACKUP -->
+	<AppIcon name="" image="aokp_backup"/>
+	<!-- APEX -->
+	<AppIcon name="" image="apex"/>
+	<!-- APEX01 -->
+	<AppIcon name="" image="apex01"/>
+	<!-- APOLLO -->
+	<AppIcon name="" image="apollo"/>
+	<!-- APOLLO01 -->
+	<AppIcon name="" image="apollo01"/>
+	<!-- APPEXTRACTOR -->
+	<AppIcon name="" image="appextractor"/>
+	<!-- APPMONGER -->
+	<AppIcon name="" image="appmonger"/>
+	<!-- ASTRO -->
+	<AppIcon name="" image="astro"/>
+	<!-- ASTRO01 -->
+	<AppIcon name="" image="astro01"/>
+	<!-- ATK -->
+	<AppIcon name="" image="atk"/>
+	<!-- AUDIBLE -->
+	<AppIcon name="" image="audible"/>
+	<!-- AUDIOFX -->
+	<AppIcon name="" image="audiofx"/>
+	<!-- AVIATE -->
+	<AppIcon name="" image="aviate"/>
+	<!-- A BETTER CAMERA -->
+	<AppIcon name="" image="a_better_camera"/>
+	<!-- B612 -->
+	<AppIcon name="" image="b612"/>
+	<!-- BBM -->
+	<AppIcon name="" image="bbm"/>
+	<!-- BBM01 -->
+	<AppIcon name="" image="bbm01"/>
+	<!-- BEAUTIFULWIDGETS -->
+	<AppIcon name="" image="beautifulwidgets"/>
+	<!-- BESTSELFIECAMERA -->
+	<AppIcon name="" image="bestselfiecamera"/>
+	<!-- BITSTRIPS -->
+	<AppIcon name="" image="bitstrips"/>
+	<!-- BLEACHER REPORT -->
+	<AppIcon name="" image="bleacher_report"/>
+	<!-- BLEACHER REPORT01 -->
+	<AppIcon name="" image="bleacher_report01"/>
+	<!-- BOX -->
+	<AppIcon name="" image="box"/>
+	<!-- BOX01 -->
+	<AppIcon name="" image="box01"/>
+	<!-- BOX02 -->
+	<AppIcon name="" image="box02"/>
+	<!-- BRIGHT WEATHER -->
+	<AppIcon name="" image="bright_weather"/>
+	<!-- BROWSER -->
+	<AppIcon name="" image="browser"/>
+	<!-- BROWSER1 -->
+	<AppIcon name="" image="browser1"/>
+	<!-- BROWSER2 -->
+	<AppIcon name="" image="browser2"/>
+	<!-- BROWSER3 -->
+	<AppIcon name="" image="browser3"/>
+	<!-- BROWSER ARC -->
+	<AppIcon name="" image="browser_arc"/>
+	<!-- BROWSER WEB -->
+	<AppIcon name="" image="browser_web"/>
+	<!-- BUSYBOX -->
+	<AppIcon name="" image="busybox"/>
+	<!-- BUZZ LAUNCHER -->
+	<AppIcon name="" image="buzz_launcher"/>
+	<!-- CABINET -->
+	<AppIcon name="" image="cabinet"/>
+	<!-- CAL -->
+	<AppIcon name="" image="cal"/>
+	<!-- CALCULATOR -->
+	<AppIcon name="" image="calculator"/>
+	<!-- CALCULATOR01 -->
+	<AppIcon name="" image="calculator01"/>
+	<!-- CALENDAR -->
+	<AppIcon name="" image="calendar"/>
+	<!-- CAMERA -->
+	<AppIcon name="" image="camera"/>
+	<!-- CAMERA2 -->
+	<AppIcon name="" image="camera2"/>
+	<!-- CAMERMX -->
+	<AppIcon name="" image="camermx"/>
+	<!-- CANDYCRUSH -->
+	<AppIcon name="" image="candycrush"/>
+	<!-- CANDYCRUSH01 -->
+	<AppIcon name="" image="candycrush01"/>
+	<!-- CANDY CAMERA FOR SELFIE -->
+	<AppIcon name="" image="candy_camera_for_selfie"/>
+	<!-- CAROUSEL -->
+	<AppIcon name="" image="carousel"/>
+	<!-- CATCHNOTES -->
+	<AppIcon name="" image="catchnotes"/>
+	<!-- CATLOG -->
+	<AppIcon name="" image="catlog"/>
+	<!-- CATLOG TOOL -->
+	<AppIcon name="" image="catlog_tool"/>
+	<!-- CHASE -->
+	<AppIcon name="" image="chase"/>
+	<!-- CHOMPSMS -->
+	<AppIcon name="" image="chompsms"/>
+	<!-- CHOMPSMS1 -->
+	<AppIcon name="" image="chompsms1"/>
+	<!-- CHROME -->
+	<AppIcon name="" image="chrome"/>
+	<!-- CHROME DEV -->
+	<AppIcon name="" image="chrome_dev"/>
+	<!-- CLEANMASTER -->
+	<AppIcon name="" image="cleanmaster"/>
+	<!-- CLIPPER -->
+	<AppIcon name="" image="clipper"/>
+	<!-- CLOCK -->
+	<AppIcon name="" image="clock"/>
+	<!-- CLOCK01 -->
+	<AppIcon name="" image="clock01"/>
+	<!-- CMDESKCLOCK -->
+	<AppIcon name="" image="cmdeskclock"/>
+	<!-- CMFILEMANAGER -->
+	<AppIcon name="" image="cmfilemanager"/>
+	<!-- CMTHEMES -->
+	<AppIcon name="" image="cmthemes"/>
+	<!-- CM BROWSER -->
+	<AppIcon name="" image="cm_browser"/>
+	<!-- CM KEYBOARD -->
+	<AppIcon name="" image="cm_keyboard"/>
+	<!-- COLORNOTE -->
+	<AppIcon name="" image="colornote"/>
+	<!-- CONNECT -->
+	<AppIcon name="" image="connect"/>
+	<!-- CONTACTS -->
+	<AppIcon name="" image="contacts"/>
+	<!-- CONTACTS01 -->
+	<AppIcon name="" image="contacts01"/>
+	<!-- COPIPE -->
+	<AppIcon name="" image="copipe"/>
+	<!-- DARKSTROKES -->
+	<AppIcon name="" image="darkstrokes"/>
+	<!-- DARKSTROKES1 -->
+	<AppIcon name="" image="darkstrokes1"/>
+	<!-- DARK STROKES -->
+	<AppIcon name="" image="dark_strokes"/>
+	<!-- DASHLANE -->
+	<AppIcon name="" image="dashlane"/>
+	<!-- DESKCLOCK -->
+	<AppIcon name="" image="deskclock"/>
+	<!-- DIALER -->
+	<AppIcon name="" image="dialer"/>
+	<!-- DIGICAL -->
+	<AppIcon name="" image="digical"/>
+	<!-- DIGICAL01 -->
+	<AppIcon name="" image="digical01"/>
+	<!-- DIGITAL ALARM CLOCK -->
+	<AppIcon name="" image="digital_alarm_clock"/>
+	<!-- DOCK A -->
+	<AppIcon name="" image="dock_a"/>
+	<!-- DOCK B -->
+	<AppIcon name="" image="dock_b"/>
+	<!-- DOCUMENTS -->
+	<AppIcon name="" image="documents"/>
+	<!-- DOWNLOADS -->
+	<AppIcon name="" image="downloads"/>
+	<!-- DOWNLOADS01 -->
+	<AppIcon name="" image="downloads01"/>
+	<!-- DOWNLOADS02 -->
+	<AppIcon name="" image="downloads02"/>
+	<!-- DOWNLOADS03 -->
+	<AppIcon name="" image="downloads03"/>
+	<!-- DROPBOX -->
+	<AppIcon name="" image="dropbox"/>
+	<!-- DROPBOX01 -->
+	<AppIcon name="" image="dropbox01"/>
+	<!-- EBAY -->
+	<AppIcon name="" image="ebay"/>
+	<!-- ECHOFON -->
+	<AppIcon name="" image="echofon"/>
+	<!-- ECHOFON01 -->
+	<AppIcon name="" image="echofon01"/>
+	<!-- ECHO LOCKSCREEN -->
+	<AppIcon name="" image="echo_lockscreen"/>
+	<!-- EIGHTBALLPOOL -->
+	<AppIcon name="" image="eightballpool"/>
+	<!-- EMAIL -->
+	<AppIcon name="" image="email"/>
+	<!-- ESFILEEXPLORER -->
+	<AppIcon name="" image="esfileexplorer"/>
+	<!-- EVOLVE -->
+	<AppIcon name="" image="evolve"/>
+	<!-- FACEBOOK -->
+	<AppIcon name="" image="facebook"/>
+	<!-- FACEBOOK01 -->
+	<AppIcon name="" image="facebook01"/>
+	<!-- FACEBOOKMESSENGER -->
+	<AppIcon name="" image="facebookmessenger"/>
+	<!-- FACER -->
+	<AppIcon name="" image="facer"/>
+	<!-- FALCONPRO -->
+	<AppIcon name="" image="falconpro"/>
+	<!-- FIDELITY -->
+	<AppIcon name="" image="fidelity"/>
+	<!-- FIDELITY01 -->
+	<AppIcon name="" image="fidelity01"/>
+	<!-- FILEMANAGER CLEAN -->
+	<AppIcon name="" image="filemanager_clean"/>
+	<!-- FILEMANAGER LGE -->
+	<AppIcon name="" image="filemanager_lge"/>
+	<!-- FILE EXPLORER FREE -->
+	<AppIcon name="" image="file_explorer_free"/>
+	<!-- FILE EXPLORER PRO -->
+	<AppIcon name="" image="file_explorer_pro"/>
+	<!-- FILE MANAGER ASUS -->
+	<AppIcon name="" image="file_manager_asus"/>
+	<!-- FILTERGRID -->
+	<AppIcon name="" image="filtergrid"/>
+	<!-- FIREFOX -->
+	<AppIcon name="" image="firefox"/>
+	<!-- FIREFOX01 -->
+	<AppIcon name="" image="firefox01"/>
+	<!-- FIREFOX02 -->
+	<AppIcon name="" image="firefox02"/>
+	<!-- FKUPDATER -->
+	<AppIcon name="" image="fkupdater"/>
+	<!-- FKUPDATER FREE -->
+	<AppIcon name="" image="fkupdater_free"/>
+	<!-- FKUPDATER FREE01 -->
+	<AppIcon name="" image="fkupdater_free01"/>
+	<!-- FLASHIFY -->
+	<AppIcon name="" image="flashify"/>
+	<!-- FLESKY -->
+	<AppIcon name="" image="flesky"/>
+	<!-- FLYNE -->
+	<AppIcon name="" image="flyne"/>
+	<!-- FLYNE01 -->
+	<AppIcon name="" image="flyne01"/>
+	<!-- FXEXPLORER -->
+	<AppIcon name="" image="fxexplorer"/>
+	<!-- GALLERY -->
+	<AppIcon name="" image="gallery"/>
+	<!-- GALLERY01 -->
+	<AppIcon name="" image="gallery01"/>
+	<!-- GALLERY DOCTOR -->
+	<AppIcon name="" image="gallery_doctor"/>
+	<!-- GLIDE -->
+	<AppIcon name="" image="glide"/>
+	<!-- GLIDE01 -->
+	<AppIcon name="" image="glide01"/>
+	<!-- GOJEK -->
+	<AppIcon name="" image="gojek"/>
+	<!-- GOJEK01 -->
+	<AppIcon name="" image="gojek01"/>
+	<!-- GOKB -->
+	<AppIcon name="" image="gokb"/>
+	<!-- GOO -->
+	<AppIcon name="" image="goo"/>
+	<!-- GOO01 -->
+	<AppIcon name="" image="goo01"/>
+	<!-- GOOGLE ANALYTICS -->
+	<AppIcon name="" image="google_analytics"/>
+	<!-- GOOGLE APP -->
+	<AppIcon name="" image="google_app"/>
+	<!-- GOOGLE CAMERA -->
+	<AppIcon name="" image="google_camera"/>
+	<!-- GOOGLE DOCS -->
+	<AppIcon name="" image="google_docs"/>
+	<!-- GOOGLE DRIVE -->
+	<AppIcon name="" image="google_drive"/>
+	<!-- GOOGLE DRIVE01 -->
+	<AppIcon name="" image="google_drive01"/>
+	<!-- GOOGLE EARTH -->
+	<AppIcon name="" image="google_earth"/>
+	<!-- GOOGLE HANGOUTS -->
+	<AppIcon name="" image="google_hangouts"/>
+	<!-- GOOGLE INBOX -->
+	<AppIcon name="" image="google_inbox"/>
+	<!-- GOOGLE KEEP -->
+	<AppIcon name="" image="google_keep"/>
+	<!-- GOOGLE KEYBOARD -->
+	<AppIcon name="" image="google_keyboard"/>
+	<!-- GOOGLE MAGAZINE -->
+	<AppIcon name="" image="google_magazine"/>
+	<!-- GOOGLE MAGAZINE01 -->
+	<AppIcon name="" image="google_magazine01"/>
+	<!-- GOOGLE MAIL -->
+	<AppIcon name="" image="google_mail"/>
+	<!-- GOOGLE MAIL01 -->
+	<AppIcon name="" image="google_mail01"/>
+	<!-- GOOGLE MAPS -->
+	<AppIcon name="" image="google_maps"/>
+	<!-- GOOGLE MAPS01 -->
+	<AppIcon name="" image="google_maps01"/>
+	<!-- GOOGLE MUSIC -->
+	<AppIcon name="" image="google_music"/>
+	<!-- GOOGLE MUSIC01 -->
+	<AppIcon name="" image="google_music01"/>
+	<!-- GOOGLE NEWS WEATHER -->
+	<AppIcon name="" image="google_news_weather"/>
+	<!-- GOOGLE OPINION REWARDS -->
+	<AppIcon name="" image="google_opinion_rewards"/>
+	<!-- GOOGLE PHOTOS -->
+	<AppIcon name="" image="google_photos"/>
+	<!-- GOOGLE PLAYGAMES -->
+	<AppIcon name="" image="google_playgames"/>
+	<!-- GOOGLE PLAYGAMES01 -->
+	<AppIcon name="" image="google_playgames01"/>
+	<!-- GOOGLE PLAYSERVICES -->
+	<AppIcon name="" image="google_playservices"/>
+	<!-- GOOGLE PLAYSTORE -->
+	<AppIcon name="" image="google_playstore"/>
+	<!-- GOOGLE PLAY BOOKS -->
+	<AppIcon name="" image="google_play_books"/>
+	<!-- GOOGLE PLAY MOVIES TV -->
+	<AppIcon name="" image="google_play_movies_tv"/>
+	<!-- GOOGLE PLUS -->
+	<AppIcon name="" image="google_plus"/>
+	<!-- GOOGLE PLUS01 -->
+	<AppIcon name="" image="google_plus01"/>
+	<!-- GOOGLE SETTINGS -->
+	<AppIcon name="" image="google_settings"/>
+	<!-- GOOGLE SETTINGS01 -->
+	<AppIcon name="" image="google_settings01"/>
+	<!-- GOOGLE SHEETS -->
+	<AppIcon name="" image="google_sheets"/>
+	<!-- GOOGLE SKYMAP -->
+	<AppIcon name="" image="google_skymap"/>
+	<!-- GOOGLE SLIDES -->
+	<AppIcon name="" image="google_slides"/>
+	<!-- GOOGLE STREETVIEW -->
+	<AppIcon name="" image="google_streetview"/>
+	<!-- GOOGLE STREETVIEW01 -->
+	<AppIcon name="" image="google_streetview01"/>
+	<!-- GOOGLE VOICE -->
+	<AppIcon name="" image="google_voice"/>
+	<!-- GOOGLE WALLET -->
+	<AppIcon name="" image="google_wallet"/>
+	<!-- GOOGLE WALLET01 -->
+	<AppIcon name="" image="google_wallet01"/>
+	<!-- GOOGLE YOUTUBE -->
+	<AppIcon name="" image="google_youtube"/>
+	<!-- HBO GO -->
+	<AppIcon name="" image="hbo_go"/>
+	<!-- HD CAMERA -->
+	<AppIcon name="" image="hd_camera"/>
+	<!-- HELIUM -->
+	<AppIcon name="" image="helium"/>
+	<!-- HELLO -->
+	<AppIcon name="" image="hello"/>
+	<!-- HOLO -->
+	<AppIcon name="" image="holo"/>
+	<!-- HOLO LAUNCHER -->
+	<AppIcon name="" image="holo_launcher"/>
+	<!-- ICON -->
+	<AppIcon name="" image="icon"/>
+	<!-- ICON1 -->
+	<AppIcon name="" image="icon1"/>
+	<!-- ICON2 -->
+	<AppIcon name="" image="icon2"/>
+	<!-- ICONBACK1 -->
+	<AppIcon name="" image="iconback1"/>
+	<!-- ICONBACK10 -->
+	<AppIcon name="" image="iconback10"/>
+	<!-- ICONBACK11 -->
+	<AppIcon name="" image="iconback11"/>
+	<!-- ICONBACK2 -->
+	<AppIcon name="" image="iconback2"/>
+	<!-- ICONBACK3 -->
+	<AppIcon name="" image="iconback3"/>
+	<!-- ICONBACK4 -->
+	<AppIcon name="" image="iconback4"/>
+	<!-- ICONBACK5 -->
+	<AppIcon name="" image="iconback5"/>
+	<!-- ICONBACK6 -->
+	<AppIcon name="" image="iconback6"/>
+	<!-- ICONBACK7 -->
+	<AppIcon name="" image="iconback7"/>
+	<!-- ICONBACK8 -->
+	<AppIcon name="" image="iconback8"/>
+	<!-- ICONBACK9 -->
+	<AppIcon name="" image="iconback9"/>
+	<!-- ICONMASK1 -->
+	<AppIcon name="" image="iconmask1"/>
+	<!-- ICONUPON1 -->
+	<AppIcon name="" image="iconupon1"/>
+	<!-- ICON WITH SHORT NAME -->
+	<AppIcon name="" image="icon_with_short_name"/>
+	<!-- IC ALLAPPS -->
+	<AppIcon name="" image="ic_allapps"/>
+	<!-- IC ALLAPPS PRESSED -->
+	<AppIcon name="" image="ic_allapps_pressed"/>
+	<!-- IMDB -->
+	<AppIcon name="" image="imdb"/>
+	<!-- INBOX -->
+	<AppIcon name="" image="inbox"/>
+	<!-- INBROWSER -->
+	<AppIcon name="" image="inbrowser"/>
+	<!-- INSTAGRAM -->
+	<AppIcon name="" image="instagram"/>
+	<!-- INSTASHOT -->
+	<AppIcon name="" image="instashot"/>
+	<!-- JUICEDEFENDER -->
+	<AppIcon name="" image="juicedefender"/>
+	<!-- KERNEL ADIUTOR -->
+	<AppIcon name="" image="kernel_adiutor"/>
+	<!-- KIK -->
+	<AppIcon name="" image="kik"/>
+	<!-- KINDLE -->
+	<AppIcon name="" image="kindle"/>
+	<!-- KIWICAMERA -->
+	<AppIcon name="" image="kiwicamera"/>
+	<!-- KUSTOM LWP -->
+	<AppIcon name="" image="kustom_lwp"/>
+	<!-- LAYERS -->
+	<AppIcon name="" image="layers"/>
+	<!-- LAYERS SHOWCASE -->
+	<AppIcon name="" image="layers_showcase"/>
+	<!-- LEDCLOCK -->
+	<AppIcon name="" image="ledclock"/>
+	<!-- LINKEDIN -->
+	<AppIcon name="" image="linkedin"/>
+	<!-- LINK BUBBLE -->
+	<AppIcon name="" image="link_bubble"/>
+	<!-- MAILBOX -->
+	<AppIcon name="" image="mailbox"/>
+	<!-- MATERIAL MANAGER -->
+	<AppIcon name="" image="material_manager"/>
+	<!-- MAXTHON BROWSER -->
+	<AppIcon name="" image="maxthon_browser"/>
+	<!-- MEGA -->
+	<AppIcon name="" image="mega"/>
+	<!-- MEGA01 -->
+	<AppIcon name="" image="mega01"/>
+	<!-- MERCURY -->
+	<AppIcon name="" image="mercury"/>
+	<!-- MESSENGER -->
+	<AppIcon name="" image="messenger"/>
+	<!-- MESSENGER1 -->
+	<AppIcon name="" image="messenger1"/>
+	<!-- MESSENGER2 -->
+	<AppIcon name="" image="messenger2"/>
+	<!-- MINECRAFT -->
+	<AppIcon name="" image="minecraft"/>
+	<!-- MINECRAFT01 -->
+	<AppIcon name="" image="minecraft01"/>
+	<!-- MINI LAUNCHER -->
+	<AppIcon name="" image="mini_launcher"/>
+	<!-- MOBILEHOTSPOT -->
+	<AppIcon name="" image="mobilehotspot"/>
+	<!-- MORNING ROUTINE -->
+	<AppIcon name="" image="morning_routine"/>
+	<!-- MOTO CAMERA -->
+	<AppIcon name="" image="moto_camera"/>
+	<!-- MULTIROM MANAGER -->
+	<AppIcon name="" image="multirom_manager"/>
+	<!-- MXPLAYER -->
+	<AppIcon name="" image="mxplayer"/>
+	<!-- MYROLL -->
+	<AppIcon name="" image="myroll"/>
+	<!-- MY VERIZON MOBILE -->
+	<AppIcon name="" image="my_verizon_mobile"/>
+	<!-- MY VERIZON MOBILE01 -->
+	<AppIcon name="" image="my_verizon_mobile01"/>
+	<!-- NEWSHOG -->
+	<AppIcon name="" image="newshog"/>
+	<!-- NEXT BROWSER -->
+	<AppIcon name="" image="next_browser"/>
+	<!-- NEXT LAUNCHER -->
+	<AppIcon name="" image="next_launcher"/>
+	<!-- NOOK -->
+	<AppIcon name="" image="nook"/>
+	<!-- NOVA -->
+	<AppIcon name="" image="nova"/>
+	<!-- NOVA01 -->
+	<AppIcon name="" image="nova01"/>
+	<!-- NOVA02 -->
+	<AppIcon name="" image="nova02"/>
+	<!-- NOVA03 -->
+	<AppIcon name="" image="nova03"/>
+	<!-- ONEDRIVE -->
+	<AppIcon name="" image="onedrive"/>
+	<!-- PAGES MANAGER -->
+	<AppIcon name="" image="pages_manager"/>
+	<!-- PANDORA -->
+	<AppIcon name="" image="pandora"/>
+	<!-- PANDORA01 -->
+	<AppIcon name="" image="pandora01"/>
+	<!-- PAYPAL -->
+	<AppIcon name="" image="paypal"/>
+	<!-- PAYPAL1 -->
+	<AppIcon name="" image="paypal1"/>
+	<!-- PAYPAL2 -->
+	<AppIcon name="" image="paypal2"/>
+	<!-- PDANET -->
+	<AppIcon name="" image="pdanet"/>
+	<!-- PERISCOPE -->
+	<AppIcon name="" image="periscope"/>
+	<!-- PHONE -->
+	<AppIcon name="" image="phone"/>
+	<!-- PHONE01 -->
+	<AppIcon name="" image="phone01"/>
+	<!-- PHOTOSHOP MIX -->
+	<AppIcon name="" image="photoshop_mix"/>
+	<!-- PICSAYPRO -->
+	<AppIcon name="" image="picsaypro"/>
+	<!-- PIKTURES -->
+	<AppIcon name="" image="piktures"/>
+	<!-- PINTEREST -->
+	<AppIcon name="" image="pinterest"/>
+	<!-- PINTEREST01 -->
+	<AppIcon name="" image="pinterest01"/>
+	<!-- PIXLR EXPRESS -->
+	<AppIcon name="" image="pixlr_express"/>
+	<!-- PLUME -->
+	<AppIcon name="" image="plume"/>
+	<!-- PLUME01 -->
+	<AppIcon name="" image="plume01"/>
+	<!-- PSMOBILE -->
+	<AppIcon name="" image="psmobile"/>
+	<!-- PUSHBULLET -->
+	<AppIcon name="" image="pushbullet"/>
+	<!-- QUICKOFFICE -->
+	<AppIcon name="" image="quickoffice"/>
+	<!-- QUICKPIC -->
+	<AppIcon name="" image="quickpic"/>
+	<!-- RAR -->
+	<AppIcon name="" image="rar"/>
+	<!-- REBOOT RECOVERY -->
+	<AppIcon name="" image="reboot_recovery"/>
+	<!-- RETRICA -->
+	<AppIcon name="" image="retrica"/>
+	<!-- ROBIRD -->
+	<AppIcon name="" image="robird"/>
+	<!-- ROBIRD01 -->
+	<AppIcon name="" image="robird01"/>
+	<!-- ROBLOX -->
+	<AppIcon name="" image="roblox"/>
+	<!-- ROM INSTALLER -->
+	<AppIcon name="" image="rom_installer"/>
+	<!-- ROM MANAGER -->
+	<AppIcon name="" image="rom_manager"/>
+	<!-- ROM MANAGER PREMIUM LICENSE -->
+	<AppIcon name="" image="rom_manager_premium_license"/>
+	<!-- ROM TOOLBOX -->
+	<AppIcon name="" image="rom_toolbox"/>
+	<!-- ROM TOOLBOX PRO -->
+	<AppIcon name="" image="rom_toolbox_pro"/>
+	<!-- ROOTEXPLORER -->
+	<AppIcon name="" image="rootexplorer"/>
+	<!-- ROOTZWIKI -->
+	<AppIcon name="" image="rootzwiki"/>
+	<!-- ROOTZWIKI01 -->
+	<AppIcon name="" image="rootzwiki01"/>
+	<!-- ROOT CHECKER BASIC -->
+	<AppIcon name="" image="root_checker_basic"/>
+	<!-- SCANBOT -->
+	<AppIcon name="" image="scanbot"/>
+	<!-- SCOPE -->
+	<AppIcon name="" image="scope"/>
+	<!-- SCOPE01 -->
+	<AppIcon name="" image="scope01"/>
+	<!-- SCOREMOBILE -->
+	<AppIcon name="" image="scoremobile"/>
+	<!-- SENSOR SENSE -->
+	<AppIcon name="" image="sensor_sense"/>
+	<!-- SETTINGS -->
+	<AppIcon name="" image="settings"/>
+	<!-- SETTINGS003 -->
+	<AppIcon name="" image="settings003"/>
+	<!-- SETTINGS01 -->
+	<AppIcon name="" image="settings01"/>
+	<!-- SETTINGS02 -->
+	<AppIcon name="" image="settings02"/>
+	<!-- SETTINGS03 -->
+	<AppIcon name="" image="settings03"/>
+	<!-- SETTINGS04 -->
+	<AppIcon name="" image="settings04"/>
+	<!-- SHAZAM -->
+	<AppIcon name="" image="shazam"/>
+	<!-- SIMPLE CAL -->
+	<AppIcon name="" image="simple_cal"/>
+	<!-- SIMPLE CAL01 -->
+	<AppIcon name="" image="simple_cal01"/>
+	<!-- SKETCHBOOK -->
+	<AppIcon name="" image="sketchbook"/>
+	<!-- SKYPE -->
+	<AppIcon name="" image="skype"/>
+	<!-- SLACKER -->
+	<AppIcon name="" image="slacker"/>
+	<!-- SLACKER01 -->
+	<AppIcon name="" image="slacker01"/>
+	<!-- SLIDING -->
+	<AppIcon name="" image="sliding"/>
+	<!-- SLIDING01 -->
+	<AppIcon name="" image="sliding01"/>
+	<!-- SMART LAUNCHER -->
+	<AppIcon name="" image="smart_launcher"/>
+	<!-- SMS -->
+	<AppIcon name="" image="sms"/>
+	<!-- SMS01 -->
+	<AppIcon name="" image="sms01"/>
+	<!-- SNAPCHAT -->
+	<AppIcon name="" image="snapchat"/>
+	<!-- SOLIDEXPLORER -->
+	<AppIcon name="" image="solidexplorer"/>
+	<!-- SONGZA -->
+	<AppIcon name="" image="songza"/>
+	<!-- SONY WEATHER -->
+	<AppIcon name="" image="sony_weather"/>
+	<!-- SOUNDHOUND -->
+	<AppIcon name="" image="soundhound"/>
+	<!-- SOUNDHOUND01 -->
+	<AppIcon name="" image="soundhound01"/>
+	<!-- SPEEDWAY -->
+	<AppIcon name="" image="speedway"/>
+	<!-- SPEEDWAY01 -->
+	<AppIcon name="" image="speedway01"/>
+	<!-- SPINLY -->
+	<AppIcon name="" image="spinly"/>
+	<!-- SUNRISE -->
+	<AppIcon name="" image="sunrise"/>
+	<!-- SUPERSU -->
+	<AppIcon name="" image="supersu"/>
+	<!-- SUPERUSER -->
+	<AppIcon name="" image="superuser"/>
+	<!-- SWIFTKEY -->
+	<AppIcon name="" image="swiftkey"/>
+	<!-- SWYPE -->
+	<AppIcon name="" image="swype"/>
+	<!-- SYSTEM APP SAFE REMOVER -->
+	<AppIcon name="" image="system_app_safe_remover"/>
+	<!-- TALON -->
+	<AppIcon name="" image="talon"/>
+	<!-- TALON01 -->
+	<AppIcon name="" image="talon01"/>
+	<!-- TANGO -->
+	<AppIcon name="" image="tango"/>
+	<!-- TAPATALK -->
+	<AppIcon name="" image="tapatalk"/>
+	<!-- TAPATALK01 -->
+	<AppIcon name="" image="tapatalk01"/>
+	<!-- TAPATALK4 -->
+	<AppIcon name="" image="tapatalk4"/>
+	<!-- TAPATALKHD -->
+	<AppIcon name="" image="tapatalkhd"/>
+	<!-- TEXTRA -->
+	<AppIcon name="" image="textra"/>
+	<!-- THEMER -->
+	<AppIcon name="" image="themer"/>
+	<!-- THE WEATHER CHANNEL -->
+	<AppIcon name="" image="the_weather_channel"/>
+	<!-- THE WEATHER CHANNEL1 -->
+	<AppIcon name="" image="the_weather_channel1"/>
+	<!-- TIMELY -->
+	<AppIcon name="" image="timely"/>
+	<!-- TITANIUMBACKUP -->
+	<AppIcon name="" image="titaniumbackup"/>
+	<!-- TOTAL COMMANDER -->
+	<AppIcon name="" image="total_commander"/>
+	<!-- TRUECALLER -->
+	<AppIcon name="" image="truecaller"/>
+	<!-- TUNEIN -->
+	<AppIcon name="" image="tunein"/>
+	<!-- TUNEINPRO -->
+	<AppIcon name="" image="tuneinpro"/>
+	<!-- TWEETINGS -->
+	<AppIcon name="" image="tweetings"/>
+	<!-- TWEETINGS01 -->
+	<AppIcon name="" image="tweetings01"/>
+	<!-- TWEETINGS02 -->
+	<AppIcon name="" image="tweetings02"/>
+	<!-- TWITTER -->
+	<AppIcon name="" image="twitter"/>
+	<!-- TWITTER01 -->
+	<AppIcon name="" image="twitter01"/>
+	<!-- TWITTER02 -->
+	<AppIcon name="" image="twitter02"/>
+	<!-- TWRP MANAGER -->
+	<AppIcon name="" image="twrp_manager"/>
+	<!-- TYPEDRAWING -->
+	<AppIcon name="" image="typedrawing"/>
+	<!-- UCBROWSER -->
+	<AppIcon name="" image="ucbrowser"/>
+	<!-- UCBROWSERMINI -->
+	<AppIcon name="" image="ucbrowsermini"/>
+	<!-- UCCW -->
+	<AppIcon name="" image="uccw"/>
+	<!-- VIBER -->
+	<AppIcon name="" image="viber"/>
+	<!-- VIDEOS -->
+	<AppIcon name="" image="videos"/>
+	<!-- VINE -->
+	<AppIcon name="" image="vine"/>
+	<!-- VINE01 -->
+	<AppIcon name="" image="vine01"/>
+	<!-- VIPER4ANDROID FX -->
+	<AppIcon name="" image="viper4android_fx"/>
+	<!-- VOICEMAIL -->
+	<AppIcon name="" image="voicemail"/>
+	<!-- VSCOCAM -->
+	<AppIcon name="" image="vscocam"/>
+	<!-- WALLBASE -->
+	<AppIcon name="" image="wallbase"/>
+	<!-- WALLBOX -->
+	<AppIcon name="" image="wallbox"/>
+	<!-- WALLBOX01 -->
+	<AppIcon name="" image="wallbox01"/>
+	<!-- WATCHFACE -->
+	<AppIcon name="" image="watchface"/>
+	<!-- WATCHFACE PREMIUM -->
+	<AppIcon name="" image="watchface_premium"/>
+	<!-- WATTPAD -->
+	<AppIcon name="" image="wattpad"/>
+	<!-- WEATHEREYE -->
+	<AppIcon name="" image="weathereye"/>
+	<!-- WEATHERUNDERGROUND -->
+	<AppIcon name="" image="weatherunderground"/>
+	<!-- WEATHER RADAR -->
+	<AppIcon name="" image="weather_radar"/>
+	<!-- WEATHER TIMELINE -->
+	<AppIcon name="" image="weather_timeline"/>
+	<!-- WEVIDEO -->
+	<AppIcon name="" image="wevideo"/>
+	<!-- WHATSAPP -->
+	<AppIcon name="" image="whatsapp"/>
+	<!-- WHATSAPP01 -->
+	<AppIcon name="" image="whatsapp01"/>
+	<!-- XDA -->
+	<AppIcon name="" image="xda"/>
+	<!-- XPLORE -->
+	<AppIcon name="" image="xplore"/>
+	<!-- YAHOOSPORTS -->
+	<AppIcon name="" image="yahoosports"/>
+	<!-- YAHOOSPORTS01 -->
+	<AppIcon name="" image="yahoosports01"/>
+	<!-- YAHOOWEATHER -->
+	<AppIcon name="" image="yahooweather"/>
+	<!-- YAHOOWEATHER01 -->
+	<AppIcon name="" image="yahooweather01"/>
+	<!-- YOUMAIL -->
+	<AppIcon name="" image="youmail"/>
+	<!-- YOUTUBE -->
+	<AppIcon name="" image="youtube"/>
+	<!-- YOUTUBE01 -->
+	<AppIcon name="" image="youtube01"/>
+	<!-- YOUTUBE02 -->
+	<AppIcon name="" image="youtube02"/>
+	<!-- YOUTUBE GAMING -->
+	<AppIcon name="" image="youtube_gaming"/>
+	<!-- YOUTUBE GAMING01 -->
+	<AppIcon name="" image="youtube_gaming01"/>
+	<!-- YOUTUBE STUDIO -->
+	<AppIcon name="" image="youtube_studio"/>
+	<!-- ZEDGE -->
+	<AppIcon name="" image="zedge"/>
+	<!-- ZOOPER FREE -->
+	<AppIcon name="" image="zooper_free"/>
+	<!-- ZOOPER PRO -->
+	<AppIcon name="" image="zooper_pro"/>
+	<!-- Z CAMERA -->
+	<AppIcon name="" image="z_camera"/>
+
+</Theme>

@@ -1,67 +1,1306 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (c) 2017 Jahir Fiquitiva
-  ~
-  ~ Licensed under the CreativeCommons Attribution-ShareAlike
-  ~ 4.0 International License. You may not use this file except in compliance
-  ~ with the License. You may obtain a copy of the License at
-  ~
-  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  ~
-  ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
-  -->
-
 <resources>
 
-    <item
-            component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable="people"/>
+    <!-- Icon Back -->
+    <iconback img1="iconback1" img2="iconback2" img3="iconback3" img4="iconback4" img5="iconback5"/>
+    <!-- You can add or remove iconbacks by editing above line using the given format  -->
 
-    <item
-            component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable="people"/>
+    <!-- Icon Upon -->
+    <iconupon img1="iconupon1" img2="iconupon2" img3="iconupon3"/>
+    <!-- You can add or remove iconupons by editing above line using the given format  -->
 
-    <item
-            component="ComponentInfo{com.android.contacts/}"
-            drawable="people"/>
+    <!-- Icon Mask -->
+    <iconmask img1="iconmask1" img2="iconmask2" img3="iconmask3"/>
+    <!-- You can add or remove iconmasks by editing above line using the given format  -->
 
-    <item
-            component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable=""/>
+    <!-- Below line scales the images to fit into your iconback -->
+    <scale factor="0.8"/>
 
-    <item
-            component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable="something"/>
 
-    <item
-            component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable="icon"/>
+    <!-- ACALENDAR -->
+    <item component="ComponentInfo{}" drawable="acalendar" />
 
-    <item
-            component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable="phone"/>
+    <!-- ACCUWEATHER -->
+    <item component="ComponentInfo{}" drawable="accuweather" />
 
-    <item
-            component="ComponentInfo{com.android.contacts/}"
-            drawable="contacts"/>
+    <!-- ACDISPLAY -->
+    <item component="ComponentInfo{}" drawable="acdisplay" />
 
-    <item
-            component="ComponentInfo{}"
-            drawable="cell"/>
+    <!-- ACTIONLAUNCHER -->
+    <item component="ComponentInfo{}" drawable="actionlauncher" />
 
-    <item
-            component="ComponentInfo{/}"
-            drawable="an_icon"/>
+    <!-- ACTION LAUNCHER -->
+    <item component="ComponentInfo{}" drawable="action_launcher" />
 
-    <item
-            component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-            drawable=""/>
+    <!-- ADBLOCK -->
+    <item component="ComponentInfo{}" drawable="adblock" />
+
+    <!-- ADBLOCK01 -->
+    <item component="ComponentInfo{}" drawable="adblock01" />
+
+    <!-- ADOBEFLASH -->
+    <item component="ComponentInfo{}" drawable="adobeflash" />
+
+    <!-- ADOBEFLASH01 -->
+    <item component="ComponentInfo{}" drawable="adobeflash01" />
+
+    <!-- ADOBEFLASH02 -->
+    <item component="ComponentInfo{}" drawable="adobeflash02" />
+
+    <!-- ADW -->
+    <item component="ComponentInfo{}" drawable="adw" />
+
+    <!-- ADW01 -->
+    <item component="ComponentInfo{}" drawable="adw01" />
+
+    <!-- ADWEX -->
+    <item component="ComponentInfo{}" drawable="adwex" />
+
+    <!-- ADWNOTIFIER -->
+    <item component="ComponentInfo{}" drawable="adwnotifier" />
+
+    <!-- AGARIO -->
+    <item component="ComponentInfo{}" drawable="agario" />
+
+    <!-- AIRBRUSH -->
+    <item component="ComponentInfo{}" drawable="airbrush" />
+
+    <!-- AIRDROID -->
+    <item component="ComponentInfo{}" drawable="airdroid" />
+
+    <!-- AITYPE EMOJI PLUGIN -->
+    <item component="ComponentInfo{}" drawable="aitype_emoji_plugin" />
+
+    <!-- AITYPE KEYBOARD FREE -->
+    <item component="ComponentInfo{}" drawable="aitype_keyboard_free" />
+
+    <!-- ALARMMON -->
+    <item component="ComponentInfo{}" drawable="alarmmon" />
+
+    <!-- ALARMMON1 -->
+    <item component="ComponentInfo{}" drawable="alarmmon1" />
+
+    <!-- ALARMPLUS -->
+    <item component="ComponentInfo{}" drawable="alarmplus" />
+
+    <!-- ALARMXTREME -->
+    <item component="ComponentInfo{}" drawable="alarmxtreme" />
+
+    <!-- ALARM CLOCK XTREME FREE -->
+    <item component="ComponentInfo{}" drawable="alarm_clock_xtreme_free" />
+
+    <!-- ALARM DEHOX -->
+    <item component="ComponentInfo{}" drawable="alarm_dehox" />
+
+    <!-- ALLAPPS01 -->
+    <item component="ComponentInfo{}" drawable="allapps01" />
+
+    <!-- ALLAPPS02 -->
+    <item component="ComponentInfo{}" drawable="allapps02" />
+
+    <!-- ALLAPPS03 -->
+    <item component="ComponentInfo{}" drawable="allapps03" />
+
+    <!-- ALLAPPS04 -->
+    <item component="ComponentInfo{}" drawable="allapps04" />
+
+    <!-- ALLAPPS05 -->
+    <item component="ComponentInfo{}" drawable="allapps05" />
+
+    <!-- ALLAPPS06 -->
+    <item component="ComponentInfo{}" drawable="allapps06" />
+
+    <!-- ALLAPPS07 -->
+    <item component="ComponentInfo{}" drawable="allapps07" />
+
+    <!-- ALLAPPS08 -->
+    <item component="ComponentInfo{}" drawable="allapps08" />
+
+    <!-- ALLAPPS09 -->
+    <item component="ComponentInfo{}" drawable="allapps09" />
+
+    <!-- ALLAPPS10 -->
+    <item component="ComponentInfo{}" drawable="allapps10" />
+
+    <!-- ALLAPPS11 -->
+    <item component="ComponentInfo{}" drawable="allapps11" />
+
+    <!-- ALLAPPS12 -->
+    <item component="ComponentInfo{}" drawable="allapps12" />
+
+    <!-- ALLAPPS13 -->
+    <item component="ComponentInfo{}" drawable="allapps13" />
+
+    <!-- ALLAPPS14 -->
+    <item component="ComponentInfo{}" drawable="allapps14" />
+
+    <!-- ALLAPPS15 -->
+    <item component="ComponentInfo{}" drawable="allapps15" />
+
+    <!-- ALLAPPS16 -->
+    <item component="ComponentInfo{}" drawable="allapps16" />
+
+    <!-- ALLAPPS17 -->
+    <item component="ComponentInfo{}" drawable="allapps17" />
+
+    <!-- ALLAPPS18 -->
+    <item component="ComponentInfo{}" drawable="allapps18" />
+
+    <!-- ALLAPPS19 -->
+    <item component="ComponentInfo{}" drawable="allapps19" />
+
+    <!-- AMAZON APP STORE -->
+    <item component="ComponentInfo{}" drawable="amazon_app_store" />
+
+    <!-- AMAZON SHOPPING -->
+    <item component="ComponentInfo{}" drawable="amazon_shopping" />
+
+    <!-- AMBER WEATHER -->
+    <item component="ComponentInfo{}" drawable="amber_weather" />
+
+    <!-- AMEX -->
+    <item component="ComponentInfo{}" drawable="amex" />
+
+    <!-- ANDLYTICS -->
+    <item component="ComponentInfo{}" drawable="andlytics" />
+
+    <!-- ANDLYTICS01 -->
+    <item component="ComponentInfo{}" drawable="andlytics01" />
+
+    <!-- ANDROID CENTRAL -->
+    <item component="ComponentInfo{}" drawable="android_central" />
+
+    <!-- ANDROID WEAR -->
+    <item component="ComponentInfo{}" drawable="android_wear" />
+
+    <!-- ANDROID WEAR01 -->
+    <item component="ComponentInfo{}" drawable="android_wear01" />
+
+    <!-- AOKP BACKUP -->
+    <item component="ComponentInfo{}" drawable="aokp_backup" />
+
+    <!-- APEX -->
+    <item component="ComponentInfo{}" drawable="apex" />
+
+    <!-- APEX01 -->
+    <item component="ComponentInfo{}" drawable="apex01" />
+
+    <!-- APOLLO -->
+    <item component="ComponentInfo{}" drawable="apollo" />
+
+    <!-- APOLLO01 -->
+    <item component="ComponentInfo{}" drawable="apollo01" />
+
+    <!-- APPEXTRACTOR -->
+    <item component="ComponentInfo{}" drawable="appextractor" />
+
+    <!-- APPMONGER -->
+    <item component="ComponentInfo{}" drawable="appmonger" />
+
+    <!-- ASTRO -->
+    <item component="ComponentInfo{}" drawable="astro" />
+
+    <!-- ASTRO01 -->
+    <item component="ComponentInfo{}" drawable="astro01" />
+
+    <!-- ATK -->
+    <item component="ComponentInfo{}" drawable="atk" />
+
+    <!-- AUDIBLE -->
+    <item component="ComponentInfo{}" drawable="audible" />
+
+    <!-- AUDIOFX -->
+    <item component="ComponentInfo{}" drawable="audiofx" />
+
+    <!-- AVIATE -->
+    <item component="ComponentInfo{}" drawable="aviate" />
+
+    <!-- A BETTER CAMERA -->
+    <item component="ComponentInfo{}" drawable="a_better_camera" />
+
+    <!-- B612 -->
+    <item component="ComponentInfo{}" drawable="b612" />
+
+    <!-- BBM -->
+    <item component="ComponentInfo{}" drawable="bbm" />
+
+    <!-- BBM01 -->
+    <item component="ComponentInfo{}" drawable="bbm01" />
+
+    <!-- BEAUTIFULWIDGETS -->
+    <item component="ComponentInfo{}" drawable="beautifulwidgets" />
+
+    <!-- BESTSELFIECAMERA -->
+    <item component="ComponentInfo{}" drawable="bestselfiecamera" />
+
+    <!-- BITSTRIPS -->
+    <item component="ComponentInfo{}" drawable="bitstrips" />
+
+    <!-- BLEACHER REPORT -->
+    <item component="ComponentInfo{}" drawable="bleacher_report" />
+
+    <!-- BLEACHER REPORT01 -->
+    <item component="ComponentInfo{}" drawable="bleacher_report01" />
+
+    <!-- BOX -->
+    <item component="ComponentInfo{}" drawable="box" />
+
+    <!-- BOX01 -->
+    <item component="ComponentInfo{}" drawable="box01" />
+
+    <!-- BOX02 -->
+    <item component="ComponentInfo{}" drawable="box02" />
+
+    <!-- BRIGHT WEATHER -->
+    <item component="ComponentInfo{}" drawable="bright_weather" />
+
+    <!-- BROWSER -->
+    <item component="ComponentInfo{}" drawable="browser" />
+
+    <!-- BROWSER1 -->
+    <item component="ComponentInfo{}" drawable="browser1" />
+
+    <!-- BROWSER2 -->
+    <item component="ComponentInfo{}" drawable="browser2" />
+
+    <!-- BROWSER3 -->
+    <item component="ComponentInfo{}" drawable="browser3" />
+
+    <!-- BROWSER ARC -->
+    <item component="ComponentInfo{}" drawable="browser_arc" />
+
+    <!-- BROWSER WEB -->
+    <item component="ComponentInfo{}" drawable="browser_web" />
+
+    <!-- BUSYBOX -->
+    <item component="ComponentInfo{}" drawable="busybox" />
+
+    <!-- BUZZ LAUNCHER -->
+    <item component="ComponentInfo{}" drawable="buzz_launcher" />
+
+    <!-- CABINET -->
+    <item component="ComponentInfo{}" drawable="cabinet" />
+
+    <!-- CAL -->
+    <item component="ComponentInfo{}" drawable="cal" />
+
+    <!-- CALCULATOR -->
+    <item component="ComponentInfo{}" drawable="calculator" />
+
+    <!-- CALCULATOR01 -->
+    <item component="ComponentInfo{}" drawable="calculator01" />
+
+    <!-- CALENDAR -->
+    <item component="ComponentInfo{}" drawable="calendar" />
+
+    <!-- CAMERA -->
+    <item component="ComponentInfo{}" drawable="camera" />
+
+    <!-- CAMERA2 -->
+    <item component="ComponentInfo{}" drawable="camera2" />
+
+    <!-- CANDYCRUSH -->
+    <item component="ComponentInfo{}" drawable="candycrush" />
+
+    <!-- CANDYCRUSH01 -->
+    <item component="ComponentInfo{}" drawable="candycrush01" />
+
+    <!-- CANDY CAMERA FOR SELFIE -->
+    <item component="ComponentInfo{}" drawable="candy_camera_for_selfie" />
+
+    <!-- CAROUSEL -->
+    <item component="ComponentInfo{}" drawable="carousel" />
+
+    <!-- CATCHNOTES -->
+    <item component="ComponentInfo{}" drawable="catchnotes" />
+
+    <!-- CATLOG -->
+    <item component="ComponentInfo{}" drawable="catlog" />
+
+    <!-- CATLOG TOOL -->
+    <item component="ComponentInfo{}" drawable="catlog_tool" />
+
+    <!-- CHASE -->
+    <item component="ComponentInfo{}" drawable="chase" />
+
+    <!-- CHOMPSMS -->
+    <item component="ComponentInfo{}" drawable="chompsms" />
+
+    <!-- CHOMPSMS1 -->
+    <item component="ComponentInfo{}" drawable="chompsms1" />
+
+    <!-- CHROME -->
+    <item component="ComponentInfo{}" drawable="chrome" />
+
+    <!-- CHROME DEV -->
+    <item component="ComponentInfo{}" drawable="chrome_dev" />
+
+    <!-- CLEANMASTER -->
+    <item component="ComponentInfo{}" drawable="cleanmaster" />
+
+    <!-- CLIPPER -->
+    <item component="ComponentInfo{}" drawable="clipper" />
+
+    <!-- CLOCK -->
+    <item component="ComponentInfo{}" drawable="clock" />
+
+    <!-- CLOCK01 -->
+    <item component="ComponentInfo{}" drawable="clock01" />
+
+    <!-- CMDESKCLOCK -->
+    <item component="ComponentInfo{}" drawable="cmdeskclock" />
+
+    <!-- CMFILEMANAGER -->
+    <item component="ComponentInfo{}" drawable="cmfilemanager" />
+
+    <!-- CMTHEMES -->
+    <item component="ComponentInfo{}" drawable="cmthemes" />
+
+    <!-- CM BROWSER -->
+    <item component="ComponentInfo{}" drawable="cm_browser" />
+
+    <!-- CM KEYBOARD -->
+    <item component="ComponentInfo{}" drawable="cm_keyboard" />
+
+    <!-- COLORNOTE -->
+    <item component="ComponentInfo{}" drawable="colornote" />
+
+    <!-- CONNECT -->
+    <item component="ComponentInfo{}" drawable="connect" />
+
+    <!-- CONTACTS -->
+    <item component="ComponentInfo{}" drawable="contacts" />
+
+    <!-- CONTACTS01 -->
+    <item component="ComponentInfo{}" drawable="contacts01" />
+
+    <!-- COPIPE -->
+    <item component="ComponentInfo{}" drawable="copipe" />
+
+    <!-- DARKSTROKES -->
+    <item component="ComponentInfo{}" drawable="darkstrokes" />
+
+    <!-- DARKSTROKES1 -->
+    <item component="ComponentInfo{}" drawable="darkstrokes1" />
+
+    <!-- DARK STROKES -->
+    <item component="ComponentInfo{}" drawable="dark_strokes" />
+
+    <!-- DASHLANE -->
+    <item component="ComponentInfo{}" drawable="dashlane" />
+
+    <!-- DESKCLOCK -->
+    <item component="ComponentInfo{}" drawable="deskclock" />
+
+    <!-- DIALER -->
+    <item component="ComponentInfo{}" drawable="dialer" />
+
+    <!-- DIGICAL -->
+    <item component="ComponentInfo{}" drawable="digical" />
+
+    <!-- DIGICAL01 -->
+    <item component="ComponentInfo{}" drawable="digical01" />
+
+    <!-- DIGITAL ALARM CLOCK -->
+    <item component="ComponentInfo{}" drawable="digital_alarm_clock" />
+
+    <!-- DOCK A -->
+    <item component="ComponentInfo{}" drawable="dock_a" />
+
+    <!-- DOCK B -->
+    <item component="ComponentInfo{}" drawable="dock_b" />
+
+    <!-- DOCUMENTS -->
+    <item component="ComponentInfo{}" drawable="documents" />
+
+    <!-- DOWNLOADS -->
+    <item component="ComponentInfo{}" drawable="downloads" />
+
+    <!-- DOWNLOADS01 -->
+    <item component="ComponentInfo{}" drawable="downloads01" />
+
+    <!-- DOWNLOADS02 -->
+    <item component="ComponentInfo{}" drawable="downloads02" />
+
+    <!-- DROPBOX -->
+    <item component="ComponentInfo{}" drawable="dropbox" />
+
+    <!-- DROPBOX01 -->
+    <item component="ComponentInfo{}" drawable="dropbox01" />
+
+    <!-- EBAY -->
+    <item component="ComponentInfo{}" drawable="ebay" />
+
+    <!-- ECHOFON -->
+    <item component="ComponentInfo{}" drawable="echofon" />
+
+    <!-- ECHOFON01 -->
+    <item component="ComponentInfo{}" drawable="echofon01" />
+
+    <!-- ECHO LOCKSCREEN -->
+    <item component="ComponentInfo{}" drawable="echo_lockscreen" />
+
+    <!-- EIGHTBALLPOOL -->
+    <item component="ComponentInfo{}" drawable="eightballpool" />
+
+    <!-- EMAIL -->
+    <item component="ComponentInfo{}" drawable="email" />
+
+    <!-- ESFILEEXPLORER -->
+    <item component="ComponentInfo{}" drawable="esfileexplorer" />
+
+    <!-- EVOLVE -->
+    <item component="ComponentInfo{}" drawable="evolve" />
+
+    <!-- FACEBOOK -->
+    <item component="ComponentInfo{}" drawable="facebook" />
+
+    <!-- FACEBOOK01 -->
+    <item component="ComponentInfo{}" drawable="facebook01" />
+
+    <!-- FACEBOOKMESSENGER -->
+    <item component="ComponentInfo{}" drawable="facebookmessenger" />
+
+    <!-- FACER -->
+    <item component="ComponentInfo{}" drawable="facer" />
+
+    <!-- FALCONPRO -->
+    <item component="ComponentInfo{}" drawable="falconpro" />
+
+    <!-- FIDELITY -->
+    <item component="ComponentInfo{}" drawable="fidelity" />
+
+    <!-- FIDELITY01 -->
+    <item component="ComponentInfo{}" drawable="fidelity01" />
+
+    <!-- FILEMANAGER CLEAN -->
+    <item component="ComponentInfo{}" drawable="filemanager_clean" />
+
+    <!-- FILEMANAGER LGE -->
+    <item component="ComponentInfo{}" drawable="filemanager_lge" />
+
+    <!-- FILE EXPLORER FREE -->
+    <item component="ComponentInfo{}" drawable="file_explorer_free" />
+
+    <!-- FILE EXPLORER PRO -->
+    <item component="ComponentInfo{}" drawable="file_explorer_pro" />
+
+    <!-- FILE MANAGER ASUS -->
+    <item component="ComponentInfo{}" drawable="file_manager_asus" />
+
+    <!-- FILTERGRID -->
+    <item component="ComponentInfo{}" drawable="filtergrid" />
+
+    <!-- FIREFOX -->
+    <item component="ComponentInfo{}" drawable="firefox" />
+
+    <!-- FIREFOX01 -->
+    <item component="ComponentInfo{}" drawable="firefox01" />
+
+    <!-- FIREFOX02 -->
+    <item component="ComponentInfo{}" drawable="firefox02" />
+
+    <!-- FKUPDATER -->
+    <item component="ComponentInfo{}" drawable="fkupdater" />
+
+    <!-- FKUPDATER FREE -->
+    <item component="ComponentInfo{}" drawable="fkupdater_free" />
+
+    <!-- FKUPDATER FREE01 -->
+    <item component="ComponentInfo{}" drawable="fkupdater_free01" />
+
+    <!-- FLASHIFY -->
+    <item component="ComponentInfo{}" drawable="flashify" />
+
+    <!-- FLESKY -->
+    <item component="ComponentInfo{}" drawable="flesky" />
+
+    <!-- FLYNE -->
+    <item component="ComponentInfo{}" drawable="flyne" />
+
+    <!-- FLYNE01 -->
+    <item component="ComponentInfo{}" drawable="flyne01" />
+
+    <!-- FXEXPLORER -->
+    <item component="ComponentInfo{}" drawable="fxexplorer" />
+
+    <!-- GALLERY -->
+    <item component="ComponentInfo{}" drawable="gallery" />
+
+    <!-- GALLERY01 -->
+    <item component="ComponentInfo{}" drawable="gallery01" />
+
+    <!-- GALLERY DOCTOR -->
+    <item component="ComponentInfo{}" drawable="gallery_doctor" />
+
+    <!-- GLIDE -->
+    <item component="ComponentInfo{}" drawable="glide" />
+
+    <!-- GLIDE01 -->
+    <item component="ComponentInfo{}" drawable="glide01" />
+
+    <!-- GOJEK -->
+    <item component="ComponentInfo{}" drawable="gojek" />
+
+    <!-- GOJEK01 -->
+    <item component="ComponentInfo{}" drawable="gojek01" />
+
+    <!-- GOKB -->
+    <item component="ComponentInfo{}" drawable="gokb" />
+
+    <!-- GOO -->
+    <item component="ComponentInfo{}" drawable="goo" />
+
+    <!-- GOO01 -->
+    <item component="ComponentInfo{}" drawable="goo01" />
+
+    <!-- GOOGLE ANALYTICS -->
+    <item component="ComponentInfo{}" drawable="google_analytics" />
+
+    <!-- GOOGLE APP -->
+    <item component="ComponentInfo{}" drawable="google_app" />
+
+    <!-- GOOGLE CAMERA -->
+    <item component="ComponentInfo{}" drawable="google_camera" />
+
+    <!-- GOOGLE DOCS -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
+
+    <!-- GOOGLE DRIVE -->
+    <item component="ComponentInfo{}" drawable="google_drive" />
+
+    <!-- GOOGLE DRIVE01 -->
+    <item component="ComponentInfo{}" drawable="google_drive01" />
+
+    <!-- GOOGLE EARTH -->
+    <item component="ComponentInfo{}" drawable="google_earth" />
+
+    <!-- GOOGLE HANGOUTS -->
+    <item component="ComponentInfo{}" drawable="google_hangouts" />
+
+    <!-- GOOGLE INBOX -->
+    <item component="ComponentInfo{}" drawable="google_inbox" />
+
+    <!-- GOOGLE KEEP -->
+    <item component="ComponentInfo{}" drawable="google_keep" />
+
+    <!-- GOOGLE KEYBOARD -->
+    <item component="ComponentInfo{}" drawable="google_keyboard" />
+
+    <!-- GOOGLE MAGAZINE -->
+    <item component="ComponentInfo{}" drawable="google_magazine" />
+
+    <!-- GOOGLE MAGAZINE01 -->
+    <item component="ComponentInfo{}" drawable="google_magazine01" />
+
+    <!-- GOOGLE MAIL -->
+    <item component="ComponentInfo{}" drawable="google_mail" />
+
+    <!-- GOOGLE MAIL01 -->
+    <item component="ComponentInfo{}" drawable="google_mail01" />
+
+    <!-- GOOGLE MAPS -->
+    <item component="ComponentInfo{}" drawable="google_maps" />
+
+    <!-- GOOGLE MAPS01 -->
+    <item component="ComponentInfo{}" drawable="google_maps01" />
+
+    <!-- GOOGLE MUSIC -->
+    <item component="ComponentInfo{}" drawable="google_music" />
+	<!-- GOOGLE MUSIC01 -->
+    <item component="ComponentInfo{}" drawable="google_music01" />
+
+    <!-- GOOGLE NEWS WEATHER -->
+    <item component="ComponentInfo{}" drawable="google_news_weather" />
+
+    <!-- GOOGLE OPINION REWARDS -->
+    <item component="ComponentInfo{}" drawable="google_opinion_rewards" />
+
+    <!-- GOOGLE PHOTOS -->
+    <item component="ComponentInfo{}" drawable="google_photos" />
+
+    <!-- GOOGLE PLAYGAMES -->
+    <item component="ComponentInfo{}" drawable="google_playgames" />
+
+    <!-- GOOGLE PLAYGAMES01 -->
+    <item component="ComponentInfo{}" drawable="google_playgames01" />
+
+    <!-- GOOGLE PLAYSERVICES -->
+    <item component="ComponentInfo{}" drawable="google_playservices" />
+
+    <!-- GOOGLE PLAYSTORE -->
+    <item component="ComponentInfo{}" drawable="google_playstore" />
+
+    <!-- GOOGLE PLAY BOOKS -->
+    <item component="ComponentInfo{}" drawable="google_play_books" />
+
+    <!-- GOOGLE PLAY MOVIES TV -->
+    <item component="ComponentInfo{}" drawable="google_play_movies_tv" />
+
+    <!-- GOOGLE PLUS -->
+    <item component="ComponentInfo{}" drawable="google_plus" />
+
+    <!-- GOOGLE PLUS01 -->
+    <item component="ComponentInfo{}" drawable="google_plus01" />
+
+    <!-- GOOGLE SETTINGS -->
+    <item component="ComponentInfo{}" drawable="google_settings" />
+
+    <!-- GOOGLE SETTINGS01 -->
+    <item component="ComponentInfo{}" drawable="google_settings01" />
+
+    <!-- GOOGLE SHEETS -->
+    <item component="ComponentInfo{}" drawable="google_sheets" />
+
+    <!-- GOOGLE SKYMAP -->
+    <item component="ComponentInfo{}" drawable="google_skymap" />
+
+    <!-- GOOGLE SLIDES -->
+    <item component="ComponentInfo{}" drawable="google_slides" />
+
+    <!-- GOOGLE STREETVIEW -->
+    <item component="ComponentInfo{}" drawable="google_streetview" />
+
+    <!-- GOOGLE STREETVIEW01 -->
+    <item component="ComponentInfo{}" drawable="google_streetview01" />
+
+    <!-- GOOGLE VOICE -->
+    <item component="ComponentInfo{}" drawable="google_voice" />
+
+    <!-- GOOGLE WALLET -->
+    <item component="ComponentInfo{}" drawable="google_wallet" />
+
+    <!-- GOOGLE WALLET01 -->
+    <item component="ComponentInfo{}" drawable="google_wallet01" />
+
+    <!-- GOOGLE YOUTUBE -->
+    <item component="ComponentInfo{}" drawable="google_youtube" />
+
+    <!-- HBO GO -->
+    <item component="ComponentInfo{}" drawable="hbo_go" />
+
+    <!-- HD CAMERA -->
+    <item component="ComponentInfo{}" drawable="hd_camera" />
+
+    <!-- HELIUM -->
+    <item component="ComponentInfo{}" drawable="helium" />
+
+    <!-- HELLO -->
+    <item component="ComponentInfo{}" drawable="hello" />
+
+    <!-- HOLO -->
+    <item component="ComponentInfo{}" drawable="holo" />
+
+    <!-- HOLO LAUNCHER -->
+    <item component="ComponentInfo{}" drawable="holo_launcher" />
+
+    <!-- ICON -->
+    <item component="ComponentInfo{}" drawable="icon" />
+
+    <!-- ICON1 -->
+    <item component="ComponentInfo{}" drawable="icon1" />
+
+    <!-- ICON2 -->
+    <item component="ComponentInfo{}" drawable="icon2" />
+
+    <!-- ICONBACK1 -->
+    <item component="ComponentInfo{}" drawable="iconback1" />
+
+    <!-- ICONBACK10 -->
+    <item component="ComponentInfo{}" drawable="iconback10" />
+
+    <!-- ICONBACK11 -->
+    <item component="ComponentInfo{}" drawable="iconback11" />
+
+    <!-- ICONBACK2 -->
+    <item component="ComponentInfo{}" drawable="iconback2" />
+
+    <!-- ICONBACK3 -->
+    <item component="ComponentInfo{}" drawable="iconback3" />
+
+    <!-- ICONBACK4 -->
+    <item component="ComponentInfo{}" drawable="iconback4" />
+
+    <!-- ICONBACK5 -->
+    <item component="ComponentInfo{}" drawable="iconback5" />
+
+    <!-- ICONBACK6 -->
+    <item component="ComponentInfo{}" drawable="iconback6" />
+
+    <!-- ICONBACK7 -->
+    <item component="ComponentInfo{}" drawable="iconback7" />
+
+    <!-- ICONBACK8 -->
+    <item component="ComponentInfo{}" drawable="iconback8" />
+
+    <!-- ICONBACK9 -->
+    <item component="ComponentInfo{}" drawable="iconback9" />
+
+    <!-- ICONMASK1 -->
+    <item component="ComponentInfo{}" drawable="iconmask1" />
+
+    <!-- ICONUPON1 -->
+    <item component="ComponentInfo{}" drawable="iconupon1" />
+
+    <!-- ICON WITH SHORT NAME -->
+    <item component="ComponentInfo{}" drawable="icon_with_short_name" />
+
+    <!-- IC ALLAPPS -->
+    <item component="ComponentInfo{}" drawable="ic_allapps" />
+
+    <!-- IC ALLAPPS PRESSED -->
+    <item component="ComponentInfo{}" drawable="ic_allapps_pressed" />
+
+    <!-- IMDB -->
+    <item component="ComponentInfo{}" drawable="imdb" />
+
+    <!-- INBOX -->
+    <item component="ComponentInfo{}" drawable="inbox" />
+
+    <!-- INBROWSER -->
+    <item component="ComponentInfo{}" drawable="inbrowser" />
+
+    <!-- INSTAGRAM -->
+    <item component="ComponentInfo{}" drawable="instagram" />
+
+    <!-- INSTASHOT -->
+    <item component="ComponentInfo{}" drawable="instashot" />
+
+    <!-- JUICEDEFENDER -->
+    <item component="ComponentInfo{}" drawable="juicedefender" />
+
+    <!-- KERNEL ADIUTOR -->
+    <item component="ComponentInfo{}" drawable="kernel_adiutor" />
+
+    <!-- KIK -->
+    <item component="ComponentInfo{}" drawable="kik" />
+
+    <!-- KINDLE -->
+    <item component="ComponentInfo{}" drawable="kindle" />
+
+    <!-- KIWICAMERA -->
+    <item component="ComponentInfo{}" drawable="kiwicamera" />
+
+    <!-- LAYERS -->
+    <item component="ComponentInfo{}" drawable="layers" />
+
+    <!-- LAYERS SHOWCASE -->
+    <item component="ComponentInfo{}" drawable="layers_showcase" />
+
+    <!-- LEDCLOCK -->
+    <item component="ComponentInfo{}" drawable="ledclock" />
+
+    <!-- LINKEDIN -->
+    <item component="ComponentInfo{}" drawable="linkedin" />
+
+    <!-- LINK BUBBLE -->
+    <item component="ComponentInfo{}" drawable="link_bubble" />
+
+    <!-- MAILBOX -->
+    <item component="ComponentInfo{}" drawable="mailbox" />
+
+    <!-- MATERIAL MANAGER -->
+    <item component="ComponentInfo{}" drawable="material_manager" />
+
+    <!-- MAXTHON BROWSER -->
+    <item component="ComponentInfo{}" drawable="maxthon_browser" />
+
+    <!-- MEGA -->
+    <item component="ComponentInfo{}" drawable="mega" />
+
+    <!-- MEGA01 -->
+    <item component="ComponentInfo{}" drawable="mega01" />
+
+    <!-- MERCURY -->
+    <item component="ComponentInfo{}" drawable="mercury" />
+
+    <!-- MESSENGER -->
+    <item component="ComponentInfo{}" drawable="messenger" />
+
+    <!-- MESSENGER1 -->
+    <item component="ComponentInfo{}" drawable="messenger1" />
+
+    <!-- MESSENGER2 -->
+    <item component="ComponentInfo{}" drawable="messenger2" />
+
+    <!-- MINECRAFT -->
+    <item component="ComponentInfo{}" drawable="minecraft" />
+
+    <!-- MINECRAFT01 -->
+    <item component="ComponentInfo{}" drawable="minecraft01" />
+
+    <!-- MINI LAUNCHER -->
+    <item component="ComponentInfo{}" drawable="mini_launcher" />
+
+    <!-- MOBILEHOTSPOT -->
+    <item component="ComponentInfo{}" drawable="mobilehotspot" />
+
+    <!-- MORNING ROUTINE -->
+    <item component="ComponentInfo{}" drawable="morning_routine" />
+
+    <!-- MOTO CAMERA -->
+    <item component="ComponentInfo{}" drawable="moto_camera" />
+
+    <!-- MULTIROM MANAGER -->
+    <item component="ComponentInfo{}" drawable="multirom_manager" />
+
+    <!-- MXPLAYER -->
+    <item component="ComponentInfo{}" drawable="mxplayer" />
+
+    <!-- MYROLL -->
+    <item component="ComponentInfo{}" drawable="myroll" />
+
+    <!-- MY VERIZON MOBILE -->
+    <item component="ComponentInfo{}" drawable="my_verizon_mobile" />
+
+    <!-- MY VERIZON MOBILE01 -->
+    <item component="ComponentInfo{}" drawable="my_verizon_mobile01" />
+
+    <!-- NEWSHOG -->
+    <item component="ComponentInfo{}" drawable="newshog" />
+
+    <!-- NEXT BROWSER -->
+    <item component="ComponentInfo{}" drawable="next_browser" />
+
+    <!-- NEXT LAUNCHER -->
+    <item component="ComponentInfo{}" drawable="next_launcher" />
+
+    <!-- NOOK -->
+    <item component="ComponentInfo{}" drawable="nook" />
+
+    <!-- NOVA -->
+    <item component="ComponentInfo{}" drawable="nova" />
+
+    <!-- NOVA01 -->
+    <item component="ComponentInfo{}" drawable="nova01" />
+
+    <!-- NOVA02 -->
+    <item component="ComponentInfo{}" drawable="nova02" />
+
+    <!-- NOVA03 -->
+    <item component="ComponentInfo{}" drawable="nova03" />
+
+    <!-- ONEDRIVE -->
+    <item component="ComponentInfo{}" drawable="onedrive" />
+
+    <!-- PAGES MANAGER -->
+    <item component="ComponentInfo{}" drawable="pages_manager" />
+
+    <!-- PANDORA -->
+    <item component="ComponentInfo{}" drawable="pandora" />
+
+    <!-- PANDORA01 -->
+    <item component="ComponentInfo{}" drawable="pandora01" />
+
+    <!-- PAYPAL -->
+    <item component="ComponentInfo{}" drawable="paypal" />
+
+    <!-- PAYPAL1 -->
+    <item component="ComponentInfo{}" drawable="paypal1" />
+
+    <!-- PAYPAL2 -->
+    <item component="ComponentInfo{}" drawable="paypal2" />
+
+    <!-- PDANET -->
+    <item component="ComponentInfo{}" drawable="pdanet" />
+
+    <!-- PERISCOPE -->
+    <item component="ComponentInfo{}" drawable="periscope" />
+
+    <!-- PHONE -->
+    <item component="ComponentInfo{}" drawable="phone" />
+
+    <!-- PHONE01 -->
+    <item component="ComponentInfo{}" drawable="phone01" />
+
+    <!-- PHOTOSHOP MIX -->
+    <item component="ComponentInfo{}" drawable="photoshop_mix" />
+
+    <!-- PICSAYPRO -->
+    <item component="ComponentInfo{}" drawable="picsaypro" />
+
+    <!-- PIKTURES -->
+    <item component="ComponentInfo{}" drawable="piktures" />
+
+    <!-- PINTEREST -->
+    <item component="ComponentInfo{}" drawable="pinterest" />
+
+    <!-- PINTEREST01 -->
+    <item component="ComponentInfo{}" drawable="pinterest01" />
+
+    <!-- PIXLR EXPRESS -->
+    <item component="ComponentInfo{}" drawable="pixlr_express" />
+
+    <!-- PLUME -->
+    <item component="ComponentInfo{}" drawable="plume" />
+
+    <!-- PLUME01 -->
+    <item component="ComponentInfo{}" drawable="plume01" />
+
+    <!-- PSMOBILE -->
+    <item component="ComponentInfo{}" drawable="psmobile" />
+
+    <!-- PUSHBULLET -->
+    <item component="ComponentInfo{}" drawable="pushbullet" />
+
+    <!-- QUICKOFFICE -->
+    <item component="ComponentInfo{}" drawable="quickoffice" />
+
+    <!-- QUICKPIC -->
+    <item component="ComponentInfo{}" drawable="quickpic" />
+
+    <!-- RAR -->
+    <item component="ComponentInfo{}" drawable="rar" />
+
+    <!-- REBOOT RECOVERY -->
+    <item component="ComponentInfo{}" drawable="reboot_recovery" />
+
+    <!-- RETRICA -->
+    <item component="ComponentInfo{}" drawable="retrica" />
+
+    <!-- ROBIRD -->
+    <item component="ComponentInfo{}" drawable="robird" />
+
+    <!-- ROBIRD01 -->
+    <item component="ComponentInfo{}" drawable="robird01" />
+
+    <!-- ROBLOX -->
+    <item component="ComponentInfo{}" drawable="roblox" />
+
+    <!-- ROM INSTALLER -->
+    <item component="ComponentInfo{}" drawable="rom_installer" />
+
+    <!-- ROM MANAGER -->
+    <item component="ComponentInfo{}" drawable="rom_manager" />
+
+    <!-- ROM MANAGER PREMIUM LICENSE -->
+    <item component="ComponentInfo{}" drawable="rom_manager_premium_license" />
+
+    <!-- ROM TOOLBOX -->
+    <item component="ComponentInfo{}" drawable="rom_toolbox" />
+
+    <!-- ROM TOOLBOX PRO -->
+    <item component="ComponentInfo{}" drawable="rom_toolbox_pro" />
+
+    <!-- ROOTEXPLORER -->
+    <item component="ComponentInfo{}" drawable="rootexplorer" />
+
+    <!-- ROOTZWIKI -->
+    <item component="ComponentInfo{}" drawable="rootzwiki" />
+
+    <!-- ROOTZWIKI01 -->
+    <item component="ComponentInfo{}" drawable="rootzwiki01" />
+
+    <!-- ROOT CHECKER BASIC -->
+    <item component="ComponentInfo{}" drawable="root_checker_basic" />
+
+    <!-- SCANBOT -->
+    <item component="ComponentInfo{}" drawable="scanbot" />
+
+    <!-- SCOPE -->
+    <item component="ComponentInfo{}" drawable="scope" />
+
+    <!-- SCOPE01 -->
+    <item component="ComponentInfo{}" drawable="scope01" />
+
+    <!-- SCOREMOBILE -->
+    <item component="ComponentInfo{}" drawable="scoremobile" />
+
+    <!-- SENSOR SENSE -->
+    <item component="ComponentInfo{}" drawable="sensor_sense" />
+
+    <!-- SETTINGS -->
+    <item component="ComponentInfo{}" drawable="settings" />
+
+    <!-- SETTINGS003 -->
+    <item component="ComponentInfo{}" drawable="settings003" />
+
+    <!-- SETTINGS01 -->
+    <item component="ComponentInfo{}" drawable="settings01" />
+
+    <!-- SETTINGS02 -->
+    <item component="ComponentInfo{}" drawable="settings02" />
+
+    <!-- SETTINGS03 -->
+    <item component="ComponentInfo{}" drawable="settings03" />
+
+    <!-- SETTINGS04 -->
+    <item component="ComponentInfo{}" drawable="settings04" />
+
+    <!-- SHAZAM -->
+    <item component="ComponentInfo{}" drawable="shazam" />
+
+    <!-- SIMPLE CAL -->
+    <item component="ComponentInfo{}" drawable="simple_cal" />
+
+    <!-- SIMPLE CAL01 -->
+    <item component="ComponentInfo{}" drawable="simple_cal01" />
+
+    <!-- SKETCHBOOK -->
+    <item component="ComponentInfo{}" drawable="sketchbook" />
+
+    <!-- SKYPE -->
+    <item component="ComponentInfo{}" drawable="skype" />
+
+    <!-- SLACKER -->
+    <item component="ComponentInfo{}" drawable="slacker" />
+
+    <!-- SLACKER01 -->
+    <item component="ComponentInfo{}" drawable="slacker01" />
+
+    <!-- SLIDING -->
+    <item component="ComponentInfo{}" drawable="sliding" />
+
+    <!-- SLIDING01 -->
+    <item component="ComponentInfo{}" drawable="sliding01" />
+
+    <!-- SMART LAUNCHER -->
+    <item component="ComponentInfo{}" drawable="smart_launcher" />
+
+    <!-- SMS -->
+    <item component="ComponentInfo{}" drawable="sms" />
+
+    <!-- SMS01 -->
+    <item component="ComponentInfo{}" drawable="sms01" />
+
+    <!-- SNAPCHAT -->
+    <item component="ComponentInfo{}" drawable="snapchat" />
+
+    <!-- SOLIDEXPLORER -->
+    <item component="ComponentInfo{}" drawable="solidexplorer" />
+
+    <!-- SONGZA -->
+    <item component="ComponentInfo{}" drawable="songza" />
+
+    <!-- SONY WEATHER -->
+    <item component="ComponentInfo{}" drawable="sony_weather" />
+
+    <!-- SOUNDHOUND -->
+    <item component="ComponentInfo{}" drawable="soundhound" />
+
+    <!-- SOUNDHOUND01 -->
+    <item component="ComponentInfo{}" drawable="soundhound01" />
+
+    <!-- SPEEDWAY -->
+    <item component="ComponentInfo{}" drawable="speedway" />
+
+    <!-- SPEEDWAY01 -->
+    <item component="ComponentInfo{}" drawable="speedway01" />
+
+    <!-- SPINLY -->
+    <item component="ComponentInfo{}" drawable="spinly" />
+
+    <!-- SUNRISE -->
+    <item component="ComponentInfo{}" drawable="sunrise" />
+
+    <!-- SUPERSU -->
+    <item component="ComponentInfo{}" drawable="supersu" />
+
+    <!-- SUPERUSER -->
+    <item component="ComponentInfo{}" drawable="superuser" />
+
+    <!-- SWIFTKEY -->
+    <item component="ComponentInfo{}" drawable="swiftkey" />
+
+    <!-- SWYPE -->
+    <item component="ComponentInfo{}" drawable="swype" />
+
+    <!-- SYSTEM APP SAFE REMOVER -->
+    <item component="ComponentInfo{}" drawable="system_app_safe_remover" />
+
+    <!-- TALON -->
+    <item component="ComponentInfo{}" drawable="talon" />
+
+    <!-- TALON01 -->
+    <item component="ComponentInfo{}" drawable="talon01" />
+
+    <!-- TANGO -->
+    <item component="ComponentInfo{}" drawable="tango" />
+
+    <!-- TAPATALK -->
+    <item component="ComponentInfo{}" drawable="tapatalk" />
+
+    <!-- TAPATALK01 -->
+    <item component="ComponentInfo{}" drawable="tapatalk01" />
+
+    <!-- TAPATALK4 -->
+    <item component="ComponentInfo{}" drawable="tapatalk4" />
+
+    <!-- TAPATALKHD -->
+    <item component="ComponentInfo{}" drawable="tapatalkhd" />
+
+    <!-- TEXTRA -->
+    <item component="ComponentInfo{}" drawable="textra" />
+
+    <!-- THEMER -->
+    <item component="ComponentInfo{}" drawable="themer" />
+
+    <!-- THE WEATHER CHANNEL -->
+    <item component="ComponentInfo{}" drawable="the_weather_channel" />
+
+    <!-- THE WEATHER CHANNEL1 -->
+    <item component="ComponentInfo{}" drawable="the_weather_channel1" />
+
+    <!-- TIMELY -->
+    <item component="ComponentInfo{}" drawable="timely" />
+
+    <!-- TITANIUMBACKUP -->
+    <item component="ComponentInfo{}" drawable="titaniumbackup" />
+
+    <!-- TOTAL COMMANDER -->
+    <item component="ComponentInfo{}" drawable="total_commander" />
+
+    <!-- TRUECALLER -->
+    <item component="ComponentInfo{}" drawable="truecaller" />
+
+    <!-- TUNEIN -->
+    <item component="ComponentInfo{}" drawable="tunein" />
+
+    <!-- TUNEINPRO -->
+    <item component="ComponentInfo{}" drawable="tuneinpro" />
+
+    <!-- TWEETINGS -->
+    <item component="ComponentInfo{}" drawable="tweetings" />
+
+    <!-- TWEETINGS01 -->
+    <item component="ComponentInfo{}" drawable="tweetings01" />
+
+    <!-- TWEETINGS02 -->
+    <item component="ComponentInfo{}" drawable="tweetings02" />
+
+    <!-- TWITTER -->
+    <item component="ComponentInfo{}" drawable="twitter" />
+
+    <!-- TWITTER01 -->
+    <item component="ComponentInfo{}" drawable="twitter01" />
+
+    <!-- TWITTER02 -->
+    <item component="ComponentInfo{}" drawable="twitter02" />
+
+    <!-- TWRP MANAGER -->
+    <item component="ComponentInfo{}" drawable="twrp_manager" />
+
+    <!-- TYPEDRAWING -->
+    <item component="ComponentInfo{}" drawable="typedrawing" />
+
+    <!-- UCBROWSER -->
+    <item component="ComponentInfo{}" drawable="ucbrowser" />
+
+    <!-- UCBROWSERMINI -->
+    <item component="ComponentInfo{}" drawable="ucbrowsermini" />
+
+    <!-- UCCW -->
+    <item component="ComponentInfo{}" drawable="uccw" />
+
+    <!-- VIBER -->
+    <item component="ComponentInfo{}" drawable="viber" />
+
+    <!-- VIDEOS -->
+    <item component="ComponentInfo{}" drawable="videos" />
+
+    <!-- VINE -->
+    <item component="ComponentInfo{}" drawable="vine" />
+
+    <!-- VINE01 -->
+    <item component="ComponentInfo{}" drawable="vine01" />
+
+    <!-- VIPER4ANDROID FX -->
+    <item component="ComponentInfo{}" drawable="viper4android_fx" />
+
+    <!-- VOICEMAIL -->
+    <item component="ComponentInfo{}" drawable="voicemail" />
+
+    <!-- VSCOCAM -->
+    <item component="ComponentInfo{}" drawable="vscocam" />
+
+    <!-- WALLBASE -->
+    <item component="ComponentInfo{}" drawable="wallbase" />
+
+    <!-- WALLBOX -->
+    <item component="ComponentInfo{}" drawable="wallbox" />
+
+    <!-- WALLBOX01 -->
+    <item component="ComponentInfo{}" drawable="wallbox01" />
+
+    <!-- WATCHFACE -->
+    <item component="ComponentInfo{}" drawable="watchface" />
+
+    <!-- WATCHFACE PREMIUM -->
+    <item component="ComponentInfo{}" drawable="watchface_premium" />
+
+    <!-- WATTPAD -->
+    <item component="ComponentInfo{}" drawable="wattpad" />
+
+    <!-- WEATHEREYE -->
+    <item component="ComponentInfo{}" drawable="weathereye" />
+
+    <!-- WEATHERUNDERGROUND -->
+    <item component="ComponentInfo{}" drawable="weatherunderground" />
+
+    <!-- WEATHER RADAR -->
+    <item component="ComponentInfo{}" drawable="weather_radar" />
+
+    <!-- WEATHER TIMELINE -->
+    <item component="ComponentInfo{}" drawable="weather_timeline" />
+
+    <!-- WEVIDEO -->
+    <item component="ComponentInfo{}" drawable="wevideo" />
+
+    <!-- WHATSAPP -->
+    <item component="ComponentInfo{}" drawable="whatsapp" />
+
+    <!-- WHATSAPP01 -->
+    <item component="ComponentInfo{}" drawable="whatsapp01" />
+
+    <!-- XDA -->
+    <item component="ComponentInfo{}" drawable="xda" />
+
+    <!-- XPLORE -->
+    <item component="ComponentInfo{}" drawable="xplore" />
+
+    <!-- YAHOOSPORTS -->
+    <item component="ComponentInfo{}" drawable="yahoosports" />
+
+    <!-- YAHOOSPORTS01 -->
+    <item component="ComponentInfo{}" drawable="yahoosports01" />
+
+    <!-- YAHOOWEATHER -->
+    <item component="ComponentInfo{}" drawable="yahooweather" />
+
+    <!-- YAHOOWEATHER01 -->
+    <item component="ComponentInfo{}" drawable="yahooweather01" />
+
+    <!-- YOUMAIL -->
+    <item component="ComponentInfo{}" drawable="youmail" />
+
+    <!-- YOUTUBE -->
+    <item component="ComponentInfo{}" drawable="youtube" />
+
+    <!-- YOUTUBE01 -->
+    <item component="ComponentInfo{}" drawable="youtube01" />
+
+    <!-- YOUTUBE02 -->
+    <item component="ComponentInfo{}" drawable="youtube02" />
+
+    <!-- YOUTUBE GAMING -->
+    <item component="ComponentInfo{}" drawable="youtube_gaming" />
+
+    <!-- YOUTUBE GAMING01 -->
+    <item component="ComponentInfo{}" drawable="youtube_gaming01" />
+
+    <!-- YOUTUBE STUDIO -->
+    <item component="ComponentInfo{}" drawable="youtube_studio" />
+
+    <!-- ZEDGE -->
+    <item component="ComponentInfo{}" drawable="zedge" />
+
+    <!-- ZOOPER FREE -->
+    <item component="ComponentInfo{}" drawable="zooper_free" />
+
+    <!-- ZOOPER PRO -->
+    <item component="ComponentInfo{}" drawable="zooper_pro" />
+
+    <!-- Z CAMERA -->
+    <item component="ComponentInfo{}" drawable="z_camera" />
 
 </resources>

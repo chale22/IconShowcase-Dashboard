@@ -21,9 +21,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- ShowcaseActivity Strings -->
-    <string name="app_name">IconShowcase</string>
-    <string name="app_long_name">IconShowcase Sample</string>
-    <string name="theme_description">IconShowcase is a Material Design based Icon Pack dashboard template. Free and open source.</string>
+    <string name="app_name">DarkStroke</string>
+    <string name="app_long_name">DarkStrokes Icons</string>
+    <string name="theme_description">DarkStrokes are a set of custom icons that are square in shape with a dark feel to them.</string>
 
     <!-- Muzei Stuff -->
     <string name="artsource_name">@string/app_name</string>
@@ -32,18 +32,18 @@
     <string name="wallpapers_json_link">https://github.com/jahirfiquitiva/Website-Resources/raw/master/iconshowcase/iconshowcase.json</string>
 
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email_id">someone@email.com</string>
+    <string name="email_id">mail.chale@gmail.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">IconShowcase</string>
-    <string name="request_title">IconShowcase Icon Request</string>
+    <string name="email_subject">DarkStroke Icons</string>
+    <string name="request_title">DarkStrokes Icon Request</string>
 
     <!-- This are the strings for the cards in the main screen -->
-    <string name="welcome_title">Welcome to IconShowcase</string>
+    <string name="welcome_title">Welcome to DarStroke Icons</string>
 
     <!-- Strings for Wallpapers and Requests -->
-    <string name="request_save_location">%1$s/IconShowcase/Requests/</string>
-    <string name="walls_save_location">%1$s/IconShowcase/Wallpapers/</string>
+    <string name="request_save_location">%1$s/DarkStrokes/Requests/</string>
+    <string name="walls_save_location">%1$s/DarkStrokes/Wallpapers/</string>
 
     <!-- Launcher Activity Name
     if the activity is:
@@ -51,16 +51,16 @@
     then write Activity
     -->
     <string name="main_activity_name">HomeActivity</string>
-    <string name="main_activity_fullname">com.packagename.appname.HomeActivity</string>
+    <string name="main_activity_fullname">com.c_hale22.darkstrokes_icons.HomeActivity</string>
 
 
     <!-- SOME INFO ABOUT YOU, TO BE USED IN THE APP AND SOME LAUNCHERS -->
-    <string name="iconpack_author_name">Your Name</string>
-    <string name="iconpack_author_photo" formatted="false" tools:ignore="TypographyDashes">https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</string>
-    <string name="iconpack_author_banner" formatted="false" tools:ignore="TypographyDashes">https://lh5.googleusercontent.com/-eAPognoXTwE/UYFKq101UyI/AAAAAAAABiY/REl1Ei8txP8/w1600-h900/default_cover_5_ff9ff46d48dc181084c9c23a120b68d8.jpg</string>
-    <string name="iconpack_author_description">I am a designer and I love this dashboard. This is just a sample text. You can edit it with your own short bio.</string>
+    <string name="iconpack_author_name">Chris Hale</string>
+    <string name="iconpack_author_photo" formatted="false" tools:ignore="TypographyDashes">https://plus.google.com/u/0/photos/106752111999680480133/albums/profile/6313896838186159186?iso=false</string>
+    <string name="iconpack_author_banner" formatted="false" tools:ignore="TypographyDashes">https://lh3.googleusercontent.com/-S2c217kjclw/V594DL1gELI/AAAAAAAAPzk/oLO83aPU7iUtPU-WP96tswoWLBvkTOdDwCJkCGAYYCw/w1280-h720-n-rw-no/f33c1afc-7747-4f2b-86f5-7ffe080dab31</string>
+    <string name="iconpack_author_description">My name is Chris Hale.</string>
     <string name="iconpack_author_playstore">https://play.google.com/store/apps/dev?id=7438639276314720952</string>
-    <string name="iconpack_author_website">https://www.jahirfiquitiva.me/</string>
+    <string name="iconpack_author_website">https://plus.google.com/u/0/+chrishale/</string>
 
 
     <!-- PICTURES NAMES TO BE USED AS PREVIEWS FOR LAUNCHERS -->

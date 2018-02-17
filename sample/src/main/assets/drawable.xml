@@ -58,7 +58,7 @@
     <item drawable="airdroid"/>
     <item drawable="alarmpad"/>
 
-    <category title="All"/>
+    <category title="all"/>
     <item drawable="an_icon"/>
     <item drawable="andy"/>
     <item drawable="another_icon"/>
